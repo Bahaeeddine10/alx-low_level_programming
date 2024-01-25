@@ -1,10 +1,3 @@
-5-island_perimeter.py
-
-Détails
-
-Activité
-Impossible de charger les détails. Réessayez.
-
 #!/usr/bin/python3
 """Defines an island perimeter measuring function."""
 
